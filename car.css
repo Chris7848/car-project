@@ -834,7 +834,8 @@ text-align: center;
         margin-bottom: 900px;
     }
     #google{
-        font-size: 15px;
+        display: flex;
+        left: 0;
     }
     
     
