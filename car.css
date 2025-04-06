@@ -526,6 +526,10 @@ footer{
     cursor: pointer;
     transition: 0.5s ease-in-out;
 }
+.text{
+    display: flex;
+    flex-direction: column;
+}
 .google-play:hover{
     background: rgba(0, 0, 0, 0.8);
 }
