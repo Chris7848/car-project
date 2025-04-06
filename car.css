@@ -829,6 +829,9 @@ text-align: center;
     .about{
         margin-bottom: 900px;
     }
+    #google{
+        font-size: 15px;
+    }
     
     
 }
