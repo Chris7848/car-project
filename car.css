@@ -156,6 +156,7 @@ overflow: hidden;
     flex-direction: column;
     color: white;
     margin-top: 110px;
+    
 }
 .about-cont{
     display: flex;
@@ -824,6 +825,9 @@ text-align: center;
     }
     .collection{
         margin-top: -5px;
+    }
+    .about{
+        margin-bottom: 900px;
     }
     
     
